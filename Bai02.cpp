@@ -14,7 +14,7 @@ class Diem
         void setTungDo(double TD);
         void Nhap();
         void Xuat() ;
-        Diem TinhTien( Diem x) ;
+        Diem TinhTien(Diem x) ;
 };
 
 Diem::Diem() : HoanhDo(0), TungDo(0) {}
